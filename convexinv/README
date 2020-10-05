@@ -1,0 +1,22 @@
+Unix:
+
+Type 'make' to compile the *.c files and to create 
+'convexinv' and 'period_scan' programs.
+
+REFERENCES
+
+Kaasalainen, J., Torppa, J. "Optimization Methods for Asteroid Lightcurve
+Inversion: I. Shape Determination". 2001. Icarus 153, 24-36.
+
+Kaasalainen, J., Torppa, J., Muinonen, K., "Optimization Methods for
+Asteroid Lightcurve Inversion: II. The Complete Inverse Problem". 2001.
+Icarus 153, 37-51.
+
+Kaasalainen, M., Mottola, S. Fulchignoni, M., "Asteroid Models from
+Disk-integrated Data" in Asteroids III. 2002, 139-150.
+
+Kaasalainen, M., Durech, J., "Inverse Problems of NEO Photometry:
+Imaging the NEO Population", Proceedings IAU Symposium No. 236, in press.
+
+http://www.rni.helsinki.fi/~mjk/asteroids.html (see the FAQ and the numerous references)
+http://astro.troja.mff.cuni.cz/projects/asteroids3D

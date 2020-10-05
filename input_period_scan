@@ -1,0 +1,10 @@
+5.7615 5.7625 0.8	period start - end - interval coeff.
+0.1			convexity weight      
+6 6			degree and order of spherical harmonics      
+8			no. of rows        
+0.5	0		scattering parameters
+0.1	0
+-0.5	0     
+0.1	0                 
+50	  		iteration stop condidion
+10			minimum number of iterations (only if the above value < 1)
